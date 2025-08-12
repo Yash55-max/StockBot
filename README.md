@@ -7,7 +7,7 @@
 
 🔍 Description:
 
-VoiceVend is an intelligent stock management system designed for small retail stores selling bottled soft drinks. It uses speech recognition to take input about sold items and updates the stock accordingly. The system also gives real-time voice-based feedback to confirm item removal and total cost.
+StockBot is an intelligent stock management system designed for small retail stores selling bottled soft drinks. It uses speech recognition to take input about sold items and updates the stock accordingly. The system also gives real-time voice-based feedback to confirm item removal and total cost.
 
 This solution simplifies inventory tracking and makes operations hands-free and efficient.
 
