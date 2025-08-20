@@ -22,6 +22,21 @@ This solution simplifies inventory tracking and makes operations hands-free and 
 
 🧠 Speech-to-Text & Text-to-Speech: Built using Google Speech Recognition and pyttsx3.
 
+
+🔮 Future Enhancements
+
+📱 Mobile app integration
+
+☁️ Cloud-based stock storage
+
+📊 Web dashboard for analytics & visualization
+
+
+
+---
+
+👉 This project shows how AI + Speech Processing can automate everyday stock management.
+
 🧪 Test Case Example:
 If the voice input is:
 
